@@ -27,6 +27,5 @@ Here are some ideas to get you started:
     <img id="preview" src="https://komarev.com/ghpvc/?username=FabriLluvia&color=red">
 </p>
 <p align="center">
-    <a href="https://leetcode.com/FabriLluvia"><img width="48%" src="[https://leetcode.card.workers.dev/drknzz](https://leetcode.card.workers.dev/FabriLluvia)?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
     <a href="https://github.com/FabriLluvia"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabriLluvia&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
