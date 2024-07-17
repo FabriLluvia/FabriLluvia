@@ -27,5 +27,5 @@ Here are some ideas to get you started:
     <img id="preview" src="https://komarev.com/ghpvc/?username=FabriLluvia&color=red">
 </p>
 <p align="center">
-    <a href="https://github.com/FabriLluvia"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabriLluvia&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+    <a href="https://github.com/FabriLluvia"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabriLluvia&theme=dark&hide=html,css,cmake&layout=compact&langs_count=1000&bg_color=101010&hide_title=true"></a>
 </p>
