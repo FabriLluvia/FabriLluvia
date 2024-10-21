@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on developing TeslaOS
-- 🌱 I’m currently learning Python and Italian
+- 🌱 I’m currently learning Python and Arabic
 - 👯 I’m looking to collaborate on Operating Systems
 - 🤔 I’m looking for help with TeslaOS development
 - 📫 How to reach me: Send me an email to fmu.elmundodelosjuegos@gmail.com
