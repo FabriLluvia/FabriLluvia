@@ -20,13 +20,9 @@ Here are some ideas to get you started:
     <h1 align="center">🗿&emsp;FabriLluvia&emsp;🍷</h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Oxygen&weight=700&pause=1000&color=36BCF7FF&width=435&lines=Hi+there!;I+am+currently+developing+TeslaOS;I+am+learning+Python+and+Italian!;I+love+computers!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Oxygen&weight=700&pause=1000&color=36BCF7FF&width=435&lines=Hi+there!;I+am+currently+developing+TeslaOS+and+Lyrkr.;I+am+learning+JS+and+Russian!;I+love+computers!" alt="Typing SVG" />
 </p>
 <br>
-<p align="center">
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=FabriLluvia&icon=0&color=0" alt="Visitor Count"/>
-    </a>
 </p>
 
 # 💻 Tech Stack
